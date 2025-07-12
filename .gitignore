@@ -1,0 +1,14 @@
+tests/
+.vscode/
+
+*.png
+*.exe
+*.exp
+*.lib
+*.pdb
+*.py
+# *.txt
+*.zip
+*.csv
+*.pdf
+*.pptx
