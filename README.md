@@ -1,4 +1,4 @@
-### Compilating
+### Compiling
 
 #### C
 
